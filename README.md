@@ -1,4 +1,4 @@
-# instagram-bot
+# viralscrape
 
 ## HOW TO USE
 ### SETTING UP: 
